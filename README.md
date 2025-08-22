@@ -1,4 +1,4 @@
-# 3xp3ssionist
+# 3xpr3ssionist
 
 > *"Literally this code runs on God's will"*
 
